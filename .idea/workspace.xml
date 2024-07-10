@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3ba27f-a09b-48c9-81c1-9b4fa97a28aa" name="Changes" comment="Создание и настройка проекта.">
+    <list default="true" id="8b3ba27f-a09b-48c9-81c1-9b4fa97a28aa" name="Changes" comment="Нажатие на чекбокс.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rusprofile_parser/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/rusprofile_parser/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rusprofile_parser/rusprofile_parser/spiders/myspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/rusprofile_parser/rusprofile_parser/spiders/myspider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +17,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;aliensen36&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "aliensen36"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/aliensen36/RP-parse.git&quot;,
-    &quot;accountId&quot;: &quot;8cf6c45e-24ac-49ac-9106-bf25d74be9da&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/aliensen36/RP-parse.git",
+    "accountId": "8cf6c45e-24ac-49ac-9106-bf25d74be9da"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -84,15 +86,23 @@
       <option name="presentableId" value="Default" />
       <updated>1720532800447</updated>
     </task>
-    <task id="LOCAL-00001" summary="Создание и настройка проекта.">
+    <task id="LOCAL-00001" summary="Ввод кода ОКВЭД в поле поиска.">
       <option name="closed" value="true" />
-      <created>1720544909336</created>
+      <created>1720600297976</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1720544909336</updated>
+      <updated>1720600297976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Нажатие на чекбокс.">
+      <option name="closed" value="true" />
+      <created>1720608838958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720608838958</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,8 +129,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Создание и настройка проекта." />
-    <option name="LAST_COMMIT_MESSAGE" value="Создание и настройка проекта." />
+    <MESSAGE value="Ввод кода ОКВЭД в поле поиска." />
+    <MESSAGE value="Нажатие на чекбокс." />
+    <option name="LAST_COMMIT_MESSAGE" value="Нажатие на чекбокс." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
