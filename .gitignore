@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# .env file
+.env
+
+# Logs
+*.log
+
+# Temporary files
+output.json

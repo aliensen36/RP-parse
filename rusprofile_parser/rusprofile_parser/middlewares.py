@@ -8,6 +8,21 @@ from scrapy import signals
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
 
+# Создайте файл mymiddlewares.py в вашем проекте Scrapy и добавьте в него следующий код:
+
+from scrapy import signals
+from scrapy.exceptions import IgnoreRequest
+
+class HandleHttpErrorMiddleware:
+    def process_response(self, request, response, spider):
+        if response.status == 403:
+            spider.logger.error(f"Received 403 Forbidden error from {request.url}")
+            # Можно выбрать другие действия, например, игнорировать запрос
+            raise IgnoreRequest("403 Forbidden error")
+
+        return response
+
+
 
 class RusprofileParserSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,

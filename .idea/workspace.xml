@@ -4,37 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b3ba27f-a09b-48c9-81c1-9b4fa97a28aa" name="Changes" comment="Нажатие на чекбокс.">
+    <list default="true" id="8b3ba27f-a09b-48c9-81c1-9b4fa97a28aa" name="Changes" comment="После авторизации - 403.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rusprofile_parser/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/rusprofile_parser/output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rusprofile_parser/rusprofile_parser/spiders/myspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/rusprofile_parser/rusprofile_parser/spiders/myspider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "aliensen36"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;aliensen36&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/aliensen36/RP-parse.git",
-    "accountId": "8cf6c45e-24ac-49ac-9106-bf25d74be9da"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/aliensen36/RP-parse.git&quot;,
+    &quot;accountId&quot;: &quot;8cf6c45e-24ac-49ac-9106-bf25d74be9da&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2j0nKiBBR0FCt5LB6agTp8jzVOH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -102,7 +109,39 @@
       <option name="project" value="LOCAL" />
       <updated>1720608838958</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Получение 10 компаний без авторизации.">
+      <option name="closed" value="true" />
+      <created>1720686677717</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720686677717</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Нажимает кнопку &quot;Войти&quot;.">
+      <option name="closed" value="true" />
+      <created>1720696569252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720696569252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Дополнения.">
+      <option name="closed" value="true" />
+      <created>1720696800128</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720696800128</updated>
+    </task>
+    <task id="LOCAL-00006" summary="После авторизации - 403.">
+      <option name="closed" value="true" />
+      <created>1720733870325</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720733870325</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,7 +155,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -131,7 +170,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ввод кода ОКВЭД в поле поиска." />
     <MESSAGE value="Нажатие на чекбокс." />
-    <option name="LAST_COMMIT_MESSAGE" value="Нажатие на чекбокс." />
+    <MESSAGE value="Получение 10 компаний без авторизации." />
+    <MESSAGE value="Нажимает кнопку &quot;Войти&quot;." />
+    <MESSAGE value="Дополнения." />
+    <MESSAGE value="После авторизации - 403." />
+    <option name="LAST_COMMIT_MESSAGE" value="После авторизации - 403." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
