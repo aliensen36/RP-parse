@@ -1,15 +1,3 @@
-# Define here the models for your spider middleware
-#
-# See documentation in:
-# https://docs.scrapy.org/en/latest/topics/spider-middleware.html
-
-from scrapy import signals
-
-# useful for handling different item types with a single interface
-from itemadapter import is_item, ItemAdapter
-
-# Создайте файл mymiddlewares.py в вашем проекте Scrapy и добавьте в него следующий код:
-
 from scrapy import signals
 from scrapy.exceptions import IgnoreRequest
 
@@ -21,6 +9,8 @@ class HandleHttpErrorMiddleware:
             raise IgnoreRequest("403 Forbidden error")
 
         return response
+
+
 
 
 
